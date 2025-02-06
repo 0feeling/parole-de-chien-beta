@@ -95,7 +95,7 @@ const OurStory = () => {
           et sa petite meute se mobilisent.
         </p>
 
-        <div className="relative">
+        */ <div className="relative">
           <img
             src="/paws-vec1.svg"
             alt="Icône"
@@ -108,7 +108,7 @@ const OurStory = () => {
             alt="Icône"
             className="w-[110px] h-[110px] absolute translate-x-[200px] translate-y-[-40px]"
           />
-        </div>
+        </div> /*
 
         {/* Photo fondatrice */}
         <div className="flex justify-center mt-8">
@@ -118,14 +118,14 @@ const OurStory = () => {
             className="w-[300px] h-[300px] object-center object-cover rounded-lg shadow-md"
             style={{ objectPosition: "100% 30%" }}
           />
-        </div>
+        */</div>
         <div className="relative">
           <img
             src="/paws-vec1.svg"
             alt="Icône"
             className="w-[110px] h-[110px] absolute translate-x-[200px] translate-y-[-90px]"
           />
-        </div>
+        </div> /*
       </div>
     </section>
   );
