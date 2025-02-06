@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth; /* scroll trnquil */
+}
+
+html {
+  scroll-padding-top: 63px; /* pour que la navbar cache pas le titre de la section quand on scroll en cliquant sur un lien de la navbar */
+}
+
+body {
+  font-family: "Nunito", sans-serif; /* Police principale */
+}
+
+h1,
+h2,
+p {
+  font-family: "Roboto", sans-serif; /* Police secondaire */
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
