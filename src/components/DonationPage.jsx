@@ -15,7 +15,7 @@ const DonationPage = () => {
       className="donation-page bg-white text-gray-800 p-8"
     >
       <h1 className="text-4xl font-bold text-center mb-16 mt-12 text-[rgb(212,93,0)]">
-        Faire un don
+        Faire un Don
       </h1>
       <p className="text-lg text-center mb-8">
         Votre soutien est essentiel pour améliorer le bien-être des personnes
@@ -51,7 +51,7 @@ const DonationPage = () => {
       <div className="text-center mb-8">
         <p className="mb-12">
           Vous préférez payer par <strong>chèque ?</strong> Téléchargez le
-          bulletin de don :
+          Bulletin de Don :
         </p>
         <NeumorphismButton
           className="mb-12"
@@ -62,14 +62,14 @@ const DonationPage = () => {
             )
           }
         >
-          Télécharger le bulletin
+          Télécharger le Bulletin
         </NeumorphismButton>
       </div>
 
       {/* Informations fiscales */}
       <div className="tax-info bg-gray-100 p-6 rounded-lg shadow-lg text-center">
         <h2 className="text-4xl font-bold text-center mb-16 mt-12 text-[rgb(212,93,0)]">
-          Vos avantages fiscaux
+          Vos Avantages Fiscaux
         </h2>
         <p>
           <strong>Particuliers :</strong> <br />
