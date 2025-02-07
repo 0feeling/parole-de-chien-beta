@@ -23,7 +23,7 @@ const Header = () => {
   // Liste des boutons
   const buttons = [
     { name: "Devenir Bénévole", id: "devenirVolontaire", offset: 170 },
-    { name: "Faire un don", id: "donationsSection", offset: 55 }
+    { name: "Faire un Don", id: "donationsSection", offset: 55 }
   ];
 
   // Détection du scroll
