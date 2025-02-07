@@ -73,7 +73,7 @@ const SoutenirMission = () => {
              text-shadow-[4px_4px_6px_rgba(0,0,0,0.3),8px_8px_10px_rgba(0,0,0,0.15)] 
              transition hover:text-shadow-[6px_6px_8px_rgba(0,0,0,0.5),10px_10px_12px_rgba(0,0,0,0.2)]"
         >
-          Alors, vous aussi, Soutenez notre Mission
+          Alors, vous aussi, soutenez notre Mission
         </h2>
 
         <p className="text-lg text-gray-700">
